@@ -1,2 +1,3 @@
-# astromods
-Mods from astroneermods.space NOT MINE!
+Repository created to use with https://nowyalexx.github.io
+
+MODS ARE NOT MY CREATION!
